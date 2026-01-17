@@ -126,8 +126,8 @@ The notebook will generate:
 - Update TensorFlow: `pip install --upgrade tensorflow`
 
 ## Author
-[Umer Farooq Dar]
-[omerfarooq2251@gmail.com]
+Umer Farooq Dar
+omerfarooq2251@gmail.com
 
 ## Submission Date
 January 17, 2026
