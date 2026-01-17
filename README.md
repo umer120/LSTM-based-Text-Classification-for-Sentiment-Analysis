@@ -126,8 +126,4 @@ The notebook will generate:
 
 ## Author
 Umer Farooq Dar
-omerfarooq2251@gmail.com
-
-## Submission Date
-January 17, 2026
 
