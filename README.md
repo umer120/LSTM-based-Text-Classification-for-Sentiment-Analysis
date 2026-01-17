@@ -26,16 +26,15 @@ pip install -r requirements.txt
 ## File Structure
 ```
 assignment4/
-├── assignment.ipynb          # Main Jupyter notebook with all code
-├── report.pdf                # Project report (1-2 pages)
-├── README.md                 # This file
-└── requirements.txt          # Python dependencies
+├── LSTM-based-text-classification.ipynb          # Main Jupyter notebook with all code
+├── README.md                                     # This file
+└── requirements.txt                              # Python dependencies
 ```
 
 ## How to Run
 
 ### Option 1: Google Colab (Recommended)
-1. Upload `assignment.ipynb` to Google Colab
+1. Upload `LSTM-based-text-classification.ipynb` to Google Colab
 2. Run all cells sequentially from top to bottom
 3. The notebook will:
    - Automatically download the IMDb dataset
@@ -53,18 +52,18 @@ assignment4/
    ```bash
    jupyter notebook
    ```
-3. Open `assignment.ipynb`
+3. Open `LSTM-based-text-classification.ipynb`
 4. Run all cells sequentially
 
 ### Option 3: Python Script
 If you prefer running as a Python script:
 1. Convert notebook to Python:
    ```bash
-   jupyter nbconvert --to python assignment.ipynb
+   jupyter nbconvert --to python LSTM-based-text-classification.ipynb
    ```
 2. Run the script:
    ```bash
-   python assignment.py
+   python LSTM-based-text-classification.py
    ```
 
 ## Expected Runtime
@@ -132,5 +131,3 @@ omerfarooq2251@gmail.com
 ## Submission Date
 January 17, 2026
 
-## License
-This project is created for academic purposes as part of Assignment 4.
