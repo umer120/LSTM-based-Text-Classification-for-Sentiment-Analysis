@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## File Structure
 ```
-assignment4/
+LSTM-based-Text-Classification-for-Sentiment-Analysis/
 ├── LSTM-based-text-classification.ipynb          # Main Jupyter notebook with all code
 ├── README.md                                     # This file
 └── requirements.txt                              # Python dependencies
